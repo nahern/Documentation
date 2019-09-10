@@ -1,0 +1,9 @@
+# How to write effective documentation
+This document outlines some tips and guidelines on writing effective and useful documenation for end users. 
+
+## Why do we need documentation at all?	
+
+Documentation is part of the product, is shipped with the product, visible in the repos, thus making it as important as the code.
+Documentation should tell users **how** to do what they need to do. It also needs to tell them **what** it does, how it works, and **why** they should use it and **when** they should use it. 
+
+‘So tell me how to use this amazing blockchain platform’
